@@ -10,7 +10,7 @@ Here you will find a list of my projects
 
 ## Projects
 
-- **Challenger**: [http://www.challeng-her.com/]
+- **Challenger**: [http://www.challeng-her.com/ ]
 - **Outbook (Airbnb like)**: A Airbnb clone. Building a MVP of Airbnb (Devise, pundit, geocoding, search, ajax, rails)
 - **Mister Cocktail**: Build a cocktail manager app using MVC pattern. CSS, Bootstrap, Rails, Heroku, Cloudinary
 - **Food delivery app**: More advanced MVC pattern
