@@ -5,7 +5,7 @@
 
 
 Passionate about languages in general, I made my way to learn many foreign languages and experience foreign cultures.
-I went into coding and discovered other kinds of languages, programming languages, for which I enjoy even more playing with their syntax and grammar.
+Then, I went into coding and discovered other kinds of languages, programming languages, for which I enjoy even more playing with.
 
 
 
