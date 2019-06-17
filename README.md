@@ -9,13 +9,13 @@ I went into coding and discovered other kinds of languages, programming language
 
 
 
-Here you will find a list of my projects
+Here you will find a list of my projects:
 
 ## Projects
 
 - **Challenger**:  http://www.challeng-her.com/
-- **Outbook (Airbnb like)**: A Airbnb clone. Building a MVP of Airbnb (Devise, pundit, geocoding, search, ajax, rails)
-- **Mister Cocktail**: Build a cocktail manager app using MVC pattern. CSS, Bootstrap, Rails, Heroku, Cloudinary
-- **Food delivery app**: More advanced MVC pattern
-- **Cookbook**: Use MVC pattern
-- **Task manager app**: CRUD
+- **Outbook (Airbnb like)**: A Airbnb clone, made as a MVP of Airbnb with **Devise**, **pundit**, **geocoding**, **search**, **ajax**, **rails**.
+- **Mister Cocktail**: A cocktail manager app, made using **MVC** pattern with **CSS**, **Bootstrap**, **Rails**, **Heroku**, **Cloudinary**.
+- **Food delivery app**: A food delivery app, made with a more advanced **MVC** pattern in **rails**.
+- **Cookbook**: A cookbook app, made using **MVC pattern** with **Rails**
+- **Task manager app**: A task manager app, made with **Ruby**
