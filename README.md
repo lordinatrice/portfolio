@@ -13,8 +13,8 @@ Here you will find a list of my projects:
 
 ## Projects
 
-- **Challenger**: A personal growth challenge app for teenagers http://www.challeng-her.com/
-- **Outbook (Airbnb like)**: A Airbnb clone, made as a MVP of Airbnb with **Devise**, **pundit**, **geocoding**, **search**, **ajax**, **rails**.
+- **Challenger**: A personal growth challenge app for teenagers, made with **Rails**, **JavaScript**, **CSS** http://www.challeng-her.com/
+- **Outbook (Airbnb like)**: A Airbnb clone, made as a MVP of Airbnb with **Devise**, **Pundit**, **Geocoding**, **Search**, **Ajax**, **Rails**.
 - **Mister Cocktail**: A cocktail manager app, made using **MVC** pattern with **Rails**, **CSS**, **Bootstrap**, **Heroku**, **Cloudinary**.
 - **Food delivery app**: A food delivery app, made with a more advanced **MVC** pattern in **rails**.
 - **Cookbook**: A cookbook app, made using **MVC pattern** with **Rails**
