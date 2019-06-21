@@ -20,3 +20,7 @@ http://www.challeng-her.com/
 - **Food delivery app**: A food delivery app, made with a more advanced **MVC** pattern in **rails**.
 - **Cookbook**: A cookbook app, made using **MVC pattern** with **Rails**
 - **Task manager app**: A task manager app, made with **Ruby**
+
+## Kata
+I train myself to algorithms on [CodeWars](www.codewars.com) and [Hackerrank](www.hackerrank.com).
+(see my repo)
