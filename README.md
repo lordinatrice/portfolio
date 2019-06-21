@@ -7,7 +7,7 @@
 Passionate about languages in general, I made my way to learn many foreign languages and experience foreign cultures.
 Then, I went into coding and discovered other kinds of languages, programming languages, with which I enjoy even more playing.
 
-
+I have experience in marketing and customer service, this is why I work on user-oridented product and design.
 
 Here you will find a list of my projects:
 
