@@ -9,6 +9,8 @@ Then, I went into coding and discovered other kinds of languages, programming la
 
 I have experience in marketing and customer service, this is why I work on user-oridented product and design.
 
+See my [profile](https://camilleregnault.github.io/profile/).
+
 Here you will find a list of my projects:
 
 ## Projects
