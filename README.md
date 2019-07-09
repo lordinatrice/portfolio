@@ -13,8 +13,7 @@ Here you will find a list of my projects:
 
 ## Projects
 
-- **Challenger**: A personal growth challenge app for teenagers, made with **Rails**, **JavaScript**, **CSS**
-http://www.challeng-her.com/
+- **[Challenger](http://www.challeng-her.com/)**: A personal growth challenge app for teenagers, made with **Rails**, **JavaScript**, **CSS**
 - **[Outbook](https://challenger-outbook.herokuapp.com/) (Airbnb like)**: A Airbnb clone, made as a MVP of Airbnb with **Devise**, **Pundit**, **Geocoding**, **Search**, **Elasticsearch**, **Ajax**, **Rails**.
 - **Heatwave**: A app that helps you visualize heatwaves during the day. Made with **Rails**.
 - **Random name generator**: A trandom name generator app, made with **Rails**, **CSS**
