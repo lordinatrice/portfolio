@@ -16,11 +16,13 @@ Here you will find a list of my projects:
 - **Challenger**: A personal growth challenge app for teenagers, made with **Rails**, **JavaScript**, **CSS**
 http://www.challeng-her.com/
 - **Outbook (Airbnb like)**: A Airbnb clone, made as a MVP of Airbnb with **Devise**, **Pundit**, **Geocoding**, **Search**, **Elasticsearch**, **Ajax**, **Rails**.
+- **Heatwave**: A app that helps you visualize heatwaves during the day. Made with **Rails**.
+- **Random name generator**: A trandom name generator app, made with **Rails**, **CSS**
 - **Mister Cocktail**: A cocktail manager app, made using **MVC** pattern with **Rails**, **CSS**, **Bootstrap**, **Heroku**, **Cloudinary**.
 - **Food delivery app**: A food delivery app, made with a more advanced **MVC** pattern in **rails**.
 - **Cookbook**: A cookbook app, made using **MVC pattern** with **Rails**
 - **Task manager app**: A task manager app, made with **Ruby**
-- **Random name generator**: A trandom name generator app, made with **Rails**, **CSS**
+
 
 ## Kata
 I train myself to algorithms on [CodeWars](www.codewars.com) and [Hackerrank](www.hackerrank.com).
