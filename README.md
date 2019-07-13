@@ -23,7 +23,7 @@ Here you will find a list of my projects:
 
          - Morse code
          - Age in days
-         - Languages, using DeepL API
+         - Foreign Languages, using DeepL API
 - **Mister Cocktail**: A cocktail manager app, made using **MVC** pattern with **Rails**, **CSS**, **Bootstrap**, **Heroku**, **Cloudinary**.
 - **Food delivery app**: A food delivery app, made with a more advanced **MVC** pattern in **rails**.
 - **Cookbook**: A cookbook app, made using **MVC pattern** with **Rails**
@@ -36,7 +36,7 @@ I also practice **Test Driven Development**
 I train myself to algorithms on [CodeWars](www.codewars.com) and [Hackerrank](www.hackerrank.com).
 (see my repo).
 
-I also completed the **Ruby Koans Challenge** for solid foundational skills in ruby.
+I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid foundational skills in ruby.
 
 
 ## Website
