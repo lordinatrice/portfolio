@@ -24,6 +24,7 @@ Here you will find a list of my projects:
          - Morse code
          - Age in days
          - Foreign Languages, using DeepL API
+         - Temperatures
 - **Mister Cocktail**: A cocktail manager app, made using **MVC** pattern with **Rails**, **CSS**, **Bootstrap**, **Heroku**, **Cloudinary**.
 - **Food delivery app**: A food delivery app, made with a more advanced **MVC** pattern in **rails**.
 - **Cookbook**: A cookbook app, made using **MVC pattern** with **Rails**
