@@ -41,4 +41,4 @@ I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid
 
 
 ## Website
-[Website](https://camilleregnault.github.io/portfolio/) (soon avaiable)
+[Website](https://camilleregnault.github.io/portfolio/) (soon available)
