@@ -31,7 +31,7 @@ Here you will find a list of my projects:
 - **Task manager app**: A task manager app, made with **Ruby**
 
 ## TDD
-I also practice **[Test Driven Development]**(https://github.com/camilleregnault/ruby-tdd-01)
+I also practice **[Test Driven Development](https://github.com/camilleregnault/ruby-tdd-01)**
 
 ## Kata
 I train myself to algorithms on [CodeWars](www.codewars.com) and [Hackerrank](www.hackerrank.com).
