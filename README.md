@@ -34,7 +34,7 @@ Here you will find a list of my projects:
 I also practice **[Test Driven Development](https://github.com/camilleregnault/ruby-tdd-01)**
 
 ## Kata
-I train myself to algorithms on [CodeWars](www.codewars.com) and [Hackerrank](www.hackerrank.com).
+I train myself to algorithms on [CodeWars](www.codewars.com), [Hackerrank](www.hackerrank.com), [Codinggame](https://www.codingame.com/) and [Coding Dojo](http://codingdojo.org/kata/).
 (see my repo).
 
 I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid foundational skills in ruby.
