@@ -15,9 +15,10 @@ Here you will find a list of my projects:
 
 ## Projects
 
+* **[War and Peace Game](https://war-and-peace-game.herokuapp.com)**: Battle Game and Geopolitics, made with **Rails**, **CSS** and deployed on **Heroku**
 * **[Challenger](http://www.challeng-her.com/)**: A personal growth challenge app for teenagers, made with **Rails**, **JavaScript**, **CSS**
 * **[Outbook](https://challenger-outbook.herokuapp.com/) (Airbnb like)**: A Airbnb clone, made as a MVP of Airbnb with **Devise**, **Pundit**, **Geocoding**, **Search**, **Elasticsearch**, **Ajax**, **Rails**.
-* **Ruby Calculator**: A calculator made with **Rails**, **JS**, **CSS** and deployed on **Heroku**
+* **Ruby Calculator**: A calculator made with **Rails**, **CSS** and deployed on **Heroku**
 * **Heatwave**: An app that helps you visualize heatwaves during the day. Made with **Rails** and **JS**.
 * **[Randname](https://randname.herokuapp.com/)**: A random name generator app, made with **Rails**, **CSS**
 * **Convertor**(under construction): A translation/conversion **Rails** app of:
