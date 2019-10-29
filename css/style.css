@@ -1,21 +1,34 @@
 @import url("https://fonts.googleapis.com/css?family=Varela+Round&display=swap");
+@import url(components/colors.css);
+
+body {
+  background-color: #fff6fa !important;
+}
 
 h1 {
   font-family: varela;
   font-size: 2.2rem !important;
-  margin-top: 20rem !important;
+  margin-top: 16rem !important;
   margin-bottom: 5rem !important;
   line-height: 1.1 !important;
+}
+
+.logo {
+  margin-top: 8%;
 }
 
 .networks {
   margin-bottom: 6rem !important;
 }
 
+.social-logos:hover {
+  opacity: 0.6;
+}
+
 .event {
   display: flex;
   align-items: center;
-  margin-bottom: 4rem ;
+  margin-bottom: 4rem;
 }
 
 .event p {
@@ -31,5 +44,5 @@ hr {
   width: 40px;
   text-align: left;
   margin-left: 0;
-
+}
 /* font-family: arial */
