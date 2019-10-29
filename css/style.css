@@ -40,9 +40,24 @@ hr {
   margin-top: 2rem !important;
   margin-bottom: 6rem !important;
   border-width: 0 !important;
-  border-top: 1.8px solid #000 !important;
+  border-top: 2px solid #000 !important;
   width: 45px;
   text-align: left;
   margin-left: 0;
 }
+
+/* about */
+@media (min-width: 550px) .six.column {
+  width: 48%;
+}
+
+.six.column {
+  float: left;
+  width: 48%;
+}
+
+.six.column.right {
+  margin-left: 4%;
+}
+
 /* font-family: arial */
