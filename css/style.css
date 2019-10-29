@@ -37,11 +37,11 @@ h1 {
 }
 
 hr {
-  margin-top: 4rem;
-  margin-bottom: 6rem;
-  border-width: 0;
-  border-top: 2px solid #000;
-  width: 40px;
+  margin-top: 2rem !important;
+  margin-bottom: 6rem !important;
+  border-width: 0 !important;
+  border-top: 1.8px solid #000 !important;
+  width: 45px;
   text-align: left;
   margin-left: 0;
 }
