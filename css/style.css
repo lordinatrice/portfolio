@@ -8,17 +8,17 @@ body {
 h1 {
   font-family: varela;
   font-size: 2.2rem !important;
-  margin-top: 16rem !important;
-  margin-bottom: 5rem !important;
+  margin-top: 12rem !important;
+  margin-bottom: 4rem !important;
   line-height: 1.1 !important;
 }
 
 .logo {
-  margin-top: 8%;
+  margin-top: 5%;
 }
 
 .networks {
-  margin-bottom: 6rem !important;
+  margin-bottom: 5rem !important;
 }
 
 .social-logos:hover {
@@ -28,7 +28,7 @@ h1 {
 .event {
   display: flex;
   align-items: center;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 }
 
 .event p {
@@ -37,8 +37,8 @@ h1 {
 }
 
 hr {
-  margin-top: 2rem !important;
-  margin-bottom: 6rem !important;
+  margin-top: 2.6rem !important;
+  margin-bottom: 2rem !important;
   border-width: 0 !important;
   border-top: 2px solid #000 !important;
   width: 45px;
@@ -60,4 +60,43 @@ hr {
   margin-left: 4%;
 }
 
+q {
+  /* font-style: italic;
+  font-size: 16px;
+  margin-left: 32px;
+  font-family: Consolas, "Times New Roman", Verdana;
+  border-left: 4px solid #ccc;
+  padding-left: 8px; */
+  font-style: normal;
+  margin-left: 32px;
+  font-family: "Segoe Print", "Times New Roman", Verdana;
+  padding-left: 48px;
+  background: url("../images/blockquote.png");
+  background-repeat: no-repeat;
+  min-height: 30px;
+}
+
+.brooks {
+  position: relative;
+  font-family: "Sanchez", serif;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-style: italic;
+  background: url("../images/quotex48.png");
+  background-repeat: no-repeat;
+  padding-left: 48px;
+  &:before {
+    content: "\201C";
+    position: absolute;
+    top: 0.25em;
+    left: -0.15em;
+    color: darken($white, 7%);
+    font-size: 6em;
+    z-index: -1;
+  }
+}
+
+blockquote {
+  margin-bottom: 3em;
+}
 /* font-family: arial */
