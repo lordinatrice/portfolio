@@ -113,4 +113,10 @@ hr.foot-hr {
   font-size: 0.8rem;
 }
 
-/* font-family: arial */
+.ruby {
+  background-color: #cc0000;
+}
+
+.js {
+  background-color: #f0db4f;
+}
