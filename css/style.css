@@ -80,17 +80,15 @@ hr {
 blockquote {
   margin-bottom: 3em;
 }
-/* font-family: arial */
-
-h3 {
-  font-family: arial;
-  font-size: 1.4rem;
-  letter-spacing: -0.08rem;
-}
-
 h2 {
   font-family: arial;
   letter-spacing: -0.05rem;
+}
+
+h3 {
+  font-family: arial;
+  font-size: 1.6rem !important;
+  letter-spacing: -0.08rem;
 }
 
 /* footer */
@@ -103,3 +101,11 @@ hr.foot-hr {
   text-align: left;
   margin-left: 0;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.8rem;
+}
+
+/* font-family: arial */
