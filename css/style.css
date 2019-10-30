@@ -60,43 +60,46 @@ hr {
   margin-left: 4%;
 }
 
-q {
-  /* font-style: italic;
-  font-size: 16px;
-  margin-left: 32px;
-  font-family: Consolas, "Times New Roman", Verdana;
-  border-left: 4px solid #ccc;
-  padding-left: 8px; */
-  font-style: normal;
-  margin-left: 32px;
+/* q {
   font-family: "Segoe Print", "Times New Roman", Verdana;
-  padding-left: 48px;
-  background: url("../images/blockquote.png");
-  background-repeat: no-repeat;
-  min-height: 30px;
-}
+} */
 
+/* quote style  */
 .brooks {
   position: relative;
   font-family: "Sanchez", serif;
-  font-size: $base-font-size;
   line-height: $base-line-height;
   font-style: italic;
   background: url("../images/quotex48.png");
   background-repeat: no-repeat;
-  padding-left: 48px;
-  &:before {
-    content: "\201C";
-    position: absolute;
-    top: 0.25em;
-    left: -0.15em;
-    color: darken($white, 7%);
-    font-size: 6em;
-    z-index: -1;
-  }
+  padding-left: 50px;
+  min-height: 30px;
+  margin-left: 36px;
 }
 
 blockquote {
   margin-bottom: 3em;
 }
 /* font-family: arial */
+
+h3 {
+  font-family: arial;
+  font-size: 1.4rem;
+  letter-spacing: -0.08rem;
+}
+
+h2 {
+  font-family: arial;
+  letter-spacing: -0.05rem;
+}
+
+/* footer */
+hr.foot-hr {
+  margin-top: 3rem !important;
+  margin-bottom: 2rem !important;
+  border-width: 0 !important;
+  border-top: 1px solid #cabbbb !important;
+  width: 100%;
+  text-align: left;
+  margin-left: 0;
+}
