@@ -9,7 +9,7 @@ h1 {
   font-family: varela;
   font-size: 2.2rem !important;
   margin-top: 12rem !important;
-  margin-bottom: 4rem !important;
+  margin-bottom: 3rem !important;
   line-height: 1.1 !important;
 }
 
@@ -28,7 +28,7 @@ h1 {
 .event {
   display: flex;
   align-items: center;
-  margin-bottom: 3rem;
+  margin-bottom: 0.5rem;
 }
 
 .event p {
@@ -60,6 +60,9 @@ hr {
   margin-left: 4%;
 }
 
+.row {
+  margin-bottom: 1.2rem;
+}
 /* q {
   font-family: "Segoe Print", "Times New Roman", Verdana;
 } */
@@ -93,7 +96,7 @@ h3 {
 
 /* footer */
 hr.foot-hr {
-  margin-top: 3rem !important;
+  margin-top: 3.5rem !important;
   margin-bottom: 2rem !important;
   border-width: 0 !important;
   border-top: 1px solid #cabbbb !important;
