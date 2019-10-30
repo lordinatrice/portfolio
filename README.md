@@ -43,7 +43,7 @@ I train myself to algorithms on [CodeWars](www.codewars.com), [Hackerrank](www.h
 I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid foundational skills in ruby.
 
 ## Workshops
-- [Atelier Git/Github](https://github.com/camilleregnault/atelier-github)
+- [Atelier Git/Github](https://github.com/camilleregnault/atelier-github) for @lesHackeuses at @42
 
 ## Website
-[Website](https://camilleregnault.github.io/portfolio/) (soon available)
+[Website](http://lordinatrice.com/) (soon available)
