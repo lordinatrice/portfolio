@@ -6,11 +6,12 @@ body {
 }
 
 h1 {
-  font-family: varela;
-  font-size: 2.2rem !important;
+  /*font-family: varela;*/
+  font-size: 2.6rem !important;
   margin-top: 12rem !important;
-  margin-bottom: 3rem !important;
   line-height: 1.1 !important;
+  font-family: arial;
+  letter-spacing: -0.05rem;
 }
 
 .logo {
@@ -19,6 +20,7 @@ h1 {
 
 .networks {
   margin-bottom: 5rem !important;
+  margin-top: 3rem !important;
 }
 
 .social-logos:hover {
@@ -41,6 +43,16 @@ hr {
   margin-bottom: 2rem !important;
   border-width: 0 !important;
   border-top: 2px solid #000 !important;
+  width: 45px;
+  text-align: left;
+  margin-left: 0;
+}
+
+hr.small-hr {
+  margin-top: 1.8rem !important;
+  margin-bottom: 1.2rem !important;
+  border-width: 0 !important;
+  border-top: 4px solid #000 !important;
   width: 45px;
   text-align: left;
   margin-left: 0;
