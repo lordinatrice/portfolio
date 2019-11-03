@@ -79,7 +79,12 @@ hr.small-hr {
   font-family: "Segoe Print", "Times New Roman", Verdana;
 } */
 .subhead {
-  margin-bottom: 1.8rem;
+  margin-bottom: 3rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  line-height: 1.3;
+  margin-left: 0;
+  width: 48%;
 }
 /* quote style  */
 .brooks {
