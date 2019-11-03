@@ -126,8 +126,9 @@ hr.foot-hr {
 
 .footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   font-size: 0.8rem;
+  margin: auto 2rem 1rem;
 }
 
 .ruby {
