@@ -2,7 +2,7 @@
 @import url(components/colors.css);
 
 body {
-  background-color: #fff6fa !important;
+  /*background-color: #fff6fa !important;*/
 }
 
 h1 {
@@ -12,6 +12,29 @@ h1 {
   line-height: 1.1 !important;
   font-family: arial;
   letter-spacing: -0.05rem;
+}
+
+.illustration {
+  opacity:0.8;
+  position: absolute;
+  z-index: -1;
+  max-width: 26%;
+  height:auto;
+  right: 10%;
+}
+
+@media screen and (max-width: 992px) {
+  .illustration {
+    right: 5rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .illustration {
+    max-width: 50%;
+    height: auto;
+    right: 5rem;
+  }
 }
 
 .logo {
