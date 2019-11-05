@@ -107,6 +107,8 @@ hr.small-hr {
   padding-left: 50px;
   min-height: 30px;
   margin-left: 36px;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
 }
 
 blockquote {
