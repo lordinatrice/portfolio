@@ -46,4 +46,4 @@ I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid
 - [Atelier Git/Github](https://github.com/camilleregnault/atelier-github) for [@lesHackeuses](https://leshackeuses.fr/) at [@42](https://www.42.fr/)
 
 ## Website
-[Website](http://lordinatrice.com/) (soon available)
+[Website](http://lordinatrice.com/)
