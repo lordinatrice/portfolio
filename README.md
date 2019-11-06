@@ -9,7 +9,7 @@ Then, I went into coding and discovered other kinds of languages, programming la
 
 I have experience in marketing and customer service, this is why I work on user-oridented product and design.
 
-See my [profile](https://camilleregnault.github.io/profile/).
+### See my [website](http://lordinatrice.com/).
 
 Here you will find a list of my projects:
 
@@ -45,5 +45,5 @@ I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid
 ## Workshops
 - [Atelier Git/Github](https://github.com/camilleregnault/atelier-github) for [@lesHackeuses](https://leshackeuses.fr/) at [@42](https://www.42.fr/)
 
-## Website
-[Website](http://lordinatrice.com/)
+## Profile
+[Profile](https://camilleregnault.github.io/profile/)
