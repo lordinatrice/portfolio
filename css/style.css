@@ -3,12 +3,13 @@
 
 body {
   background-color: #f8f8f8 !important;
+  font-size:1.2rem !important;
   /*#fff6fa */
 }
 
 h1 {
   /*font-family: varela;*/
-  font-size: 2.6rem !important;
+  font-size: 3.4rem !important;
   margin-top: 12rem !important;
   line-height: 1.1 !important;
   font-family: arial;
@@ -58,6 +59,7 @@ h1 {
 }
 
 .event p {
+  font-size: 1.3rem !important;
   margin-bottom: 0rem !important;
   margin-left: 1.2rem;
 }
@@ -89,15 +91,16 @@ hr.small-hr {
   font-family: "Segoe Print", "Times New Roman", Verdana;
 } */
 .subhead {
-  margin-bottom: 2rem;
-  font-size: 0.9rem;
+  margin-bottom: 2.2rem;
+  font-size: 1.4rem;
   font-weight: bold;
   line-height: 1.3;
   margin-left: 0;
-  width: 50%;
+  width: 60%;
 }
 /* quote style  */
 .brooks {
+  font-size: 1.6rem;
   position: relative;
   font-family: "Sanchez", serif;
   line-height: $base-line-height;
@@ -107,21 +110,22 @@ hr.small-hr {
   padding-left: 50px;
   min-height: 30px;
   margin-left: 36px;
-  margin-bottom: 1.5rem;
-  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 blockquote {
   margin-bottom: 3em;
 }
 h2 {
+  font-size: 2.2rem;
   font-family: arial;
   letter-spacing: -0.05rem;
 }
 
 h3 {
   font-family: arial;
-  font-size: 1.6rem !important;
+  font-size: 1.8rem !important;
   letter-spacing: -0.08rem;
 }
 
