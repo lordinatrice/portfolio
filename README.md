@@ -9,7 +9,7 @@ Then, I went into coding and discovered other kinds of languages, programming la
 
 I have experience in marketing and customer service, this is why I work on user-oridented product and design.
 
-See my [profile](https://camilleregnault.github.io/profile/).
+### See my [website](http://lordinatrice.com/).
 
 Here you will find a list of my projects:
 
@@ -43,7 +43,8 @@ I train myself to algorithms on [CodeWars](www.codewars.com), [Hackerrank](www.h
 I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid foundational skills in ruby.
 
 ## Workshops
-- [Atelier Git/Github](https://github.com/camilleregnault/atelier-github) for [@lesHackeuses](https://leshackeuses.fr/) at [@42](https://www.42.fr/)
+- [Atelier Git/Github](https://github.com/camilleregnault/atelier-github)[Meetup](https://www.meetup.com/fr-FR/meetup-LesHackeuses/events/265922192/) for [@lesHackeuses](https://leshackeuses.fr/) at [@42](https://www.42.fr/) - 2019-2020
+- [Festival P2P](https://p2p.paris/fr/event/festival-0/) for [@lesHackeuses](https://leshackeuses.fr/) at Ground Control 
 
-## Website
-[Website](http://lordinatrice.com/) (soon available)
+## Profile
+[Profile](https://camilleregnault.github.io/profile/)
