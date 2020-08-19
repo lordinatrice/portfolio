@@ -9,7 +9,7 @@ Then, I went into coding and discovered other kinds of languages, programming la
 
 I have experience in marketing and customer service, this is why I work on user-oridented product and design.
 
-### See my [website](http://lordinatrice.com/).
+<!-- ### See my [website](http://lordinatrice.com/). -->
 
 Here you will find a list of my projects:
 
