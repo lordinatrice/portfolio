@@ -47,6 +47,7 @@ I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid
 ## Workshops
 - [Atelier Git/Github](https://github.com/camilleregnault/atelier-github)[Meetup](https://www.meetup.com/fr-FR/meetup-LesHackeuses/events/265922192/) for [@lesHackeuses](https://leshackeuses.fr/) at [@42](https://www.42.fr/) - 2019-2020
 - [Festival P2P](https://p2p.paris/fr/event/festival-0/) for [@lesHackeuses](https://leshackeuses.fr/) at Ground Control 
+- Product design for @LeWagon
 
 ## Profile
 [Profile](https://camilleregnault.github.io/profile/)
