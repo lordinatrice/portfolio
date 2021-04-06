@@ -32,22 +32,13 @@ Here you will find a list of my projects:
 - **Food delivery app**: A food delivery app, made with a more advanced **MVC** pattern in **rails**.
 - **Cookbook**: A cookbook app, made using **MVC pattern** with **Rails**
 - **Task manager app**: A task manager app, made with **Ruby**
+- Jekyll Blog 
 
 ## TDD
 I also practice **[Test Driven Development](https://github.com/camilleregnault/ruby-tdd-01)**
-
-## Kata
-I train myself to algorithms on [CodeWars](www.codewars.com), [Hackerrank](www.hackerrank.com), [Codinggame](https://www.codingame.com/) and [Coding Dojo](http://codingdojo.org/kata/).
-(see my repo).
-
-I also completed the **[Ruby Koans Challenge](http://rubykoans.com/)** for solid foundational skills in ruby.
-
-[Exercism](https://exercism.io/) Ruby track
 
 ## Workshops
 - [Atelier Git/Github](https://github.com/camilleregnault/atelier-github)[Meetup](https://www.meetup.com/fr-FR/meetup-LesHackeuses/events/265922192/) for [@lesHackeuses](https://leshackeuses.fr/) at [@42](https://www.42.fr/) - 2019-2020
 - [Festival P2P](https://p2p.paris/fr/event/festival-0/) for [@lesHackeuses](https://leshackeuses.fr/) at Ground Control 
 - Product design for @LeWagon
 
-## Profile
-[Profile](https://camilleregnault.github.io/profile/)
